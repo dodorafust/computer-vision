@@ -3,3 +3,5 @@
 /runs
 /outputs
 /tests
+/.idea
+/src/__pycache__
